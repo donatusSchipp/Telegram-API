@@ -54,7 +54,7 @@ with open('countryList.txt','r') as countriesFile:
     countriesList=[]
     for line in lines:
         countriesList.append(list(line.rstrip().split(',')))
-
+# open telegram Channel list to download
 with open('TelegramChannels.txt','r') as channelFile:
     lines = channelFile.readlines()
     telegramChannelList=[]
