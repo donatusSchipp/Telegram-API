@@ -1,0 +1,244 @@
+Emoji-Unicode,alpha_2_code,alpha_3_code,Name_english,nationality,etc
+U0001F1E6 U0001F1EB,AF,AFG,Afghanistan,Afghan
+U0001F1E6 U0001F1FD,AX,ALA,Åland Islands,Åland Island
+U0001F1E6 U0001F1F1,AL,ALB,Albania,Albanian
+U0001F1E9 U0001F1FF,DZ,DZA,Algeria,Algerian
+U0001F1E6 U0001F1F8,AS,ASM,American Samoa,American Samoan
+U0001F1E6 U0001F1E9,AD,AND,Andorra,Andorran
+U0001F1E6 U0001F1F4,AO,AGO,Angola,Angolan
+U0001F1E6 U0001F1EE,AI,AIA,Anguilla,Anguillan
+U0001F1E6 U0001F1F6,AQ,ATA,Antarctica,Antarctic
+U0001F1E6 U0001F1EC,AG,ATG,Antigua and Barbuda,Antiguan,Barbudan
+U0001F1E6 U0001F1F7,AR,ARG,Argentina,Argentine
+U0001F1E6 U0001F1F2,AM,ARM,Armenia,Armenian
+U0001F1E6 U0001F1FC,AW,ABW,Aruba,Aruban
+U0001F1E6 U0001F1FA,AU,AUS,Australia,Australian
+U0001F1E6 U0001F1F9,AT,AUT,Austria,Austrian
+U0001F1E6 U0001F1FF,AZ,AZE,Azerbaijan,Azerbaijani, Azeri
+U0001F1E7 U0001F1F8,BS,BHS,Bahamas,Bahamian
+U0001F1E7 U0001F1ED,BH,BHR,Bahrain,Bahraini
+U0001F1E7 U0001F1E9,BD,BGD,Bangladesh,Bangladeshi
+U0001F1E7 U0001F1E7,BB,BRB,Barbados,Barbadian
+U0001F1E7 U0001F1FE,BY,BLR,Belarus,Belarusian
+U0001F1E7 U0001F1EA,BE,BEL,Belgium,Belgian
+U0001F1E7 U0001F1FF,BZ,BLZ,Belize,Belizean
+U0001F1E7 U0001F1EF,BJ,BEN,Benin,Beninese, Beninois
+U0001F1E7 U0001F1F2,BM,BMU,Bermuda,Bermudian, Bermudan
+U0001F1E7 U0001F1F9,BT,BTN,Bhutan,Bhutanese
+U0001F1E7 U0001F1F4,BO,BOL,Bolivia,Bolivian
+U0001F1E7 U0001F1E6,BA,BIH,Bosnia and Herzegovina,Bosnian or Herzegovinian
+U0001F1E7 U0001F1FC,BW,BWA,Botswana,Motswana, Botswanan
+U0001F1E7 U0001F1FB,BV,BVT,Bouvet Island,Bouvet Island
+U0001F1E7 U0001F1F7,BR,BRA,Brazil,Brazilian
+U0001F1EE U0001F1F4,IO,IOT,British Indian Ocean Territory,BIOT
+U0001F1E7 U0001F1F3,BN,BRN,Brunei Darussalam,Bruneian
+U0001F1E7 U0001F1EC,BG,BGR,Bulgaria,Bulgarian
+U0001F1E7 U0001F1EB,BF,BFA,Burkina Faso,Burkinabé
+U0001F1E7 U0001F1EE,BI,BDI,Burundi,Burundian
+U0001F1E8 U0001F1FB,CV,CPV,Cabo Verde,Cabo Verdean
+U0001F1F0 U0001F1ED,KH,KHM,Cambodia,Cambodian
+U0001F1E8 U0001F1F2,CM,CMR,Cameroon,Cameroonian
+U0001F1E8 U0001F1E6,CA,CAN,Canada,Canadian
+U0001F1F0 U0001F1FE,KY,CYM,Cayman Islands,Caymanian
+U0001F1E8 U0001F1EB,CF,CAF,Central African Republic,Central African
+U0001F1F9 U0001F1E9,TD,TCD,Chad,Chadian
+U0001F1E8 U0001F1F1,CL,CHL,Chile,Chilean
+U0001F1E8 U0001F1F3,CN,CHN,China,Chinese
+U0001F1E8 U0001F1FD,CX,CXR,Christmas Island,Christmas Island
+U0001F1E8 U0001F1E8,CC,CCK,Cocos (Keeling) Islands,Cocos Island
+U0001F1E8 U0001F1F4,CO,COL,Colombia,Colombian
+U0001F1F0 U0001F1F2,KM,COM,Comoros,Comoran, Comorian
+U0001F1E8 U0001F1EC,CG,COG,Congo (Republic of the),Congolese, Congo
+U0001F1E8 U0001F1E9,CD,COD,Congo (Democratic Republic of the),Congolese, Congo
+U0001F1E8 U0001F1F0,CK,COK,Cook Islands,Cook Island
+U0001F1E8 U0001F1F7,CR,CRI,Costa Rica,Costa Rican
+U0001F1E8 U0001F1EE,CI,CIV,Côte d'Ivoire,Ivorian
+U0001F1ED U0001F1F7,HR,HRV,Croatia,Croatian
+U0001F1E8 U0001F1FA,CU,CUB,Cuba,Cuban
+U0001F1E8 U0001F1FC,CW,CUW,Curaçao,Curaçaoan
+U0001F1E8 U0001F1FE,CY,CYP,Cyprus,Cypriot
+U0001F1E8 U0001F1FF,CZ,CZE,Czech Republic,Czech
+U0001F1E9 U0001F1F0,DK,DNK,Denmark,Danish
+U0001F1E9 U0001F1EF,DJ,DJI,Djibouti,Djiboutian
+U0001F1E9 U0001F1F2,DM,DMA,Dominica,Dominican
+U0001F1E9 U0001F1F4,DO,DOM,Dominican Republic,Dominican
+U0001F1EA U0001F1E8,EC,ECU,Ecuador,Ecuadorian
+U0001F1EA U0001F1EC,EG,EGY,Egypt,Egyptian
+U0001F1F8 U0001F1FB,SV,SLV,El Salvador,Salvadoran
+U0001F1EC U0001F1F6,GQ,GNQ,Equatorial Guinea,Equatorial Guinean, Equatoguinean
+U0001F1EA U0001F1F7,ER,ERI,Eritrea,Eritrean
+U0001F1EA U0001F1EA,EE,EST,Estonia,Estonian
+U0001F1EA U0001F1F9,ET,ETH,Ethiopia,Ethiopian
+U0001F1EB U0001F1F0,FK,FLK,Falkland Islands ,Falkland Island, Malvinas
+U0001F1EB U0001F1F4,FO,FRO,Faroe Islands,Faroese
+U0001F1EB U0001F1EF,FJ,FJI,Fiji,Fijian
+U0001F1EB U0001F1EE,FI,FIN,Finland,Finnish
+U0001F1EB U0001F1F7,FR,FRA,France,French
+U0001F1EC U0001F1EB,GF,GUF,French Guiana,French Guianese
+U0001F1F5 U0001F1EB,PF,PYF,French Polynesia,French Polynesian
+U0001F1F9 U0001F1EB,TF,ATF,French Southern Territories,French Southern Territories
+U0001F1EC U0001F1E6,GA,GAB,Gabon,Gabonese
+U0001F1EC U0001F1F2,GM,GMB,Gambia,Gambian
+U0001F1EC U0001F1EA,GE,GEO,Georgia,Georgian
+U0001F1E9 U0001F1EA,DE,DEU,Germany,German
+U0001F1EC U0001F1ED,GH,GHA,Ghana,Ghanaian
+U0001F1EC U0001F1EE,GI,GIB,Gibraltar,Gibraltar
+U0001F1EC U0001F1F7,GR,GRC,Greece,Greek, Hellenic
+U0001F1EC U0001F1F1,GL,GRL,Greenland,Greenlandic
+U0001F1EC U0001F1E9,GD,GRD,Grenada,Grenadian
+U0001F1EC U0001F1F5,GP,GLP,Guadeloupe,Guadeloupe
+U0001F1EC U0001F1FA,GU,GUM,Guam,Guamanian, Guambat
+U0001F1EC U0001F1F9,GT,GTM,Guatemala,Guatemalan
+U0001F1EC U0001F1EC,GG,GGY,Guernsey,Channel Island
+U0001F1EC U0001F1F3,GN,GIN,Guinea,Guinean
+U0001F1EC U0001F1FC,GW,GNB,Guinea-Bissau,Bissau-Guinean
+U0001F1EC U0001F1FE,GY,GUY,Guyana,Guyanese
+U0001F1ED U0001F1F9,HT,HTI,Haiti,Haitian
+U0001F1FB U0001F1E6,VA,VAT,Vatican City State,Vatican
+U0001F1ED U0001F1F3,HN,HND,Honduras,Honduran
+U0001F1ED U0001F1F0,HK,HKG,Hong Kong, Hong Kongese
+U0001F1ED U0001F1FA,HU,HUN,Hungary,Hungarian, Magyar
+U0001F1EE U0001F1F8,IS,ISL,Iceland,Icelandic
+U0001F1EE U0001F1F3,IN,IND,India,Indian
+U0001F1EE U0001F1E9,ID,IDN,Indonesia,Indonesian
+U0001F1EE U0001F1F7,IR,IRN,Iran,Iranian, Persian
+U0001F1EE U0001F1F6,IQ,IRQ,Iraq,Iraqi
+U0001F1EE U0001F1EA,IE,IRL,Ireland,Irish
+U0001F1EE U0001F1F2,IM,IMN,Isle of Man,Manx
+U0001F1EE U0001F1F1,IL,ISR,Israel,Israeli
+U0001F1EE U0001F1F9,IT,ITA,Italy,Italian
+U0001F1EF U0001F1F2,JM,JAM,Jamaica,Jamaican
+U0001F1EF U0001F1F5,JP,JPN,Japan,Japanese
+U0001F1EF U0001F1EA,JE,JEY,Jersey,Channel Island
+U0001F1EF U0001F1F4,JO,JOR,Jordan,Jordanian
+U0001F1F0 U0001F1FF,KZ,KAZ,Kazakhstan,Kazakhstani, Kazakh
+U0001F1F0 U0001F1EA,KE,KEN,Kenya,Kenyan
+U0001F1F0 U0001F1EE,KI,KIR,Kiribati,I-Kiribati
+U0001F1F0 U0001F1F5,KP,PRK,Korea (Democratic People's Republic of),North Korean,North Korea
+U0001F1F0 U0001F1F7,KR,KOR,Korea (Republic of),South Korean, South Korea
+U0001F1F0 U0001F1FC,KW,KWT,Kuwait,Kuwaiti
+U0001F1F0 U0001F1EC,KG,KGZ,Kyrgyzstan,Kyrgyzstani,Kyrgyz,Kirgiz,Kirghiz
+U0001F1F1 U0001F1E6,LA,LAO,Lao People's Democratic Republic,Lao,Laotian
+U0001F1F1 U0001F1FB,LV,LVA,Latvia,Latvian
+U0001F1F1 U0001F1E7,LB,LBN,Lebanon,Lebanese
+U0001F1F1 U0001F1F8,LS,LSO,Lesotho,Basotho
+U0001F1F1 U0001F1F7,LR,LBR,Liberia,Liberian
+U0001F1F1 U0001F1FE,LY,LBY,Libya,Libyan
+U0001F1F1 U0001F1EE,LI,LIE,Liechtenstein,Liechtenstein
+U0001F1F1 U0001F1F9,LT,LTU,Lithuania,Lithuanian
+U0001F1F1 U0001F1FA,LU,LUX,Luxembourg,Luxembourg, Luxembourgish
+U0001F1F2 U0001F1F4,MO,MAC,Macao,Macanese
+U0001F1F2 U0001F1F0,MK,MKD,Macedonia,Macedonian
+U0001F1F2 U0001F1EC,MG,MDG,Madagascar,Malagasy
+U0001F1F2 U0001F1FC,MW,MWI,Malawi,Malawian
+U0001F1F2 U0001F1FE,MY,MYS,Malaysia,Malaysian
+U0001F1F2 U0001F1FB,MV,MDV,Maldives,Maldivian
+U0001F1F2 U0001F1F1,ML,MLI,Mali,Malian, Malinese
+U0001F1F2 U0001F1F9,MT,MLT,Malta,Maltese
+U0001F1F2 U0001F1ED,MH,MHL,Marshall Islands,Marshallese
+U0001F1F2 U0001F1F6,MQ,MTQ,Martinique,Martiniquais, Martinican
+U0001F1F2 U0001F1F7,MR,MRT,Mauritania,Mauritanian
+U0001F1F2 U0001F1FA,MU,MUS,Mauritius,Mauritian
+U0001F1FE U0001F1F9,YT,MYT,Mayotte,Mahoran
+U0001F1F2 U0001F1FD,MX,MEX,Mexico,Mexican
+U0001F1EB U0001F1F2,FM,FSM,Micronesia (Federated States of),Micronesian,Micronesia
+U0001F1F2 U0001F1E9,MD,MDA,Moldova (Republic of),Moldovan
+U0001F1F2 U0001F1E8,MC,MCO,Monaco,Monégasque, Monacan
+U0001F1F2 U0001F1F3,MN,MNG,Mongolia,Mongolian
+U0001F1F2 U0001F1EA,ME,MNE,Montenegro,Montenegrin
+U0001F1F2 U0001F1F8,MS,MSR,Montserrat,Montserratian
+U0001F1F2 U0001F1E6,MA,MAR,Morocco,Moroccan
+U0001F1F2 U0001F1FF,MZ,MOZ,Mozambique,Mozambican
+U0001F1F2 U0001F1F2,MM,MMR,Myanmar,Burmese
+U0001F1F3 U0001F1E6,NA,NAM,Namibia,Namibian
+U0001F1F3 U0001F1F7,NR,NRU,Nauru,Nauruan
+U0001F1F3 U0001F1F5,NP,NPL,Nepal,Nepali, Nepalese
+U0001F1F3 U0001F1F1,NL,NLD,Netherlands,Dutch,Netherlandic
+U0001F1F3 U0001F1E8,NC,NCL,New Caledonia,New Caledonian
+U0001F1F3 U0001F1FF,NZ,NZL,New Zealand,New Zealand
+U0001F1F3 U0001F1EE,NI,NIC,Nicaragua,Nicaraguan
+U0001F1F3 U0001F1EA,NE,NER,Niger,Nigerien
+U0001F1F3 U0001F1EC,NG,NGA,Nigeria,Nigerian
+U0001F1F3 U0001F1FA,NU,NIU,Niue,Niuean
+U0001F1F3 U0001F1EB,NF,NFK,Norfolk Island,Norfolk Island
+U0001F1F2 U0001F1F5,MP,MNP,Northern Mariana Islands,Northern Marianan
+U0001F1F3 U0001F1F4,NO,NOR,Norway,Norwegian
+U0001F1F4 U0001F1F2,OM,OMN,Oman,Omani
+U0001F1F5 U0001F1F0,PK,PAK,Pakistan,Pakistani
+U0001F1F5 U0001F1FC,PW,PLW,Palau,Palauan
+U0001F1F5 U0001F1F8,PS,PSE,Palestine,Palestinian
+U0001F1F5 U0001F1E6,PA,PAN,Panama,Panamanian
+U0001F1F5 U0001F1EC,PG,PNG,Papua New Guinea,Papua New Guinean, Papuan
+U0001F1F5 U0001F1FE,PY,PRY,Paraguay,Paraguayan
+U0001F1F5 U0001F1EA,PE,PER,Peru,Peruvian
+U0001F1F5 U0001F1ED,PH,PHL,Philippines,Philippine, Filipino
+U0001F1F5 U0001F1F3,PN,PCN,Pitcairn,Pitcairn Island
+U0001F1F5 U0001F1F1,PL,POL,Poland,Polish
+U0001F1F5 U0001F1F9,PT,PRT,Portugal,Portuguese
+U0001F1F5 U0001F1F7,PR,PRI,Puerto Rico,Puerto Rican
+U0001F1F6 U0001F1E6,QA,QAT,Qatar,Qatari
+U0001F1F7 U0001F1EA,RE,REU,Réunion,Réunionese, Réunionnais
+U0001F1F7 U0001F1F4,RO,ROU,Romania,Romanian
+U0001F1F7 U0001F1FA,RU,RUS,Russian Federation,Russian,Russia
+U0001F1F7 U0001F1FC,RW,RWA,Rwanda,Rwandan
+U0001F1E7 U0001F1F1,BL,BLM,Saint Barthélemy,Barthélemois
+U0001F1F8 U0001F1ED,SH,SHN,Saint Helena, Ascension and Tristan da Cunha,Saint Helenian
+U0001F1F0 U0001F1F3,KN,KNA,Saint Kitts and Nevis,Kittitian or Nevisian
+U0001F1F1 U0001F1E8,LC,LCA,Saint Lucia,Saint Lucian
+U0001F1F8 U0001F1FD,MF,MAF,Saint Martin (French part),Saint-Martinoise
+U0001F1F5 U0001F1F2,PM,SPM,Saint Pierre and Miquelon,Saint-Pierrais or Miquelonnais
+U0001F1FC U0001F1F8,WS,WSM,Samoa,Samoan
+U0001F1F8 U0001F1F2,SM,SMR,San Marino,Sammarinese
+U0001F1F8 U0001F1E6,SA,SAU,Saudi Arabia,Saudi, Saudi Arabian
+U0001F1F8 U0001F1F3,SN,SEN,Senegal,Senegalese
+U0001F1F7 U0001F1F8,RS,SRB,Serbia,Serbian
+U0001F1F8 U0001F1E8,SC,SYC,Seychelles,Seychellois
+U0001F1F8 U0001F1F1,SL,SLE,Sierra Leone,Sierra Leonean
+U0001F1F8 U0001F1EC,SG,SGP,Singapore,Singaporean
+U0001F1F8 U0001F1FD,SX,SXM,Sint Maarten (Dutch part),Sint Maarten
+U0001F1F8 U0001F1F0,SK,SVK,Slovakia,Slovak
+U0001F1F8 U0001F1EE,SI,SVN,Slovenia,Slovenian, Slovene
+U0001F1F8 U0001F1E7,SB,SLB,Solomon Islands,Solomon Island
+U0001F1F8 U0001F1F4,SO,SOM,Somalia,Somali, Somalian
+U0001F1FF U0001F1E6,ZA,ZAF,South Africa,South African
+U0001F1F8 U0001F1F8,SS,SSD,South Sudan,South Sudanese
+U0001F1EA U0001F1F8,ES,ESP,Spain,Spanish
+U0001F1F1 U0001F1F0,LK,LKA,Sri Lanka,Sri Lankan
+U0001F1F8 U0001F1E9,SD,SDN,Sudan,Sudanese
+U0001F1F8 U0001F1F7,SR,SUR,Suriname,Surinamese
+U0001F1F8 U0001F1EF,SJ,SJM,Svalbard and Jan Mayen,Svalbard
+U0001F1F8 U0001F1FF,SZ,SWZ,Swaziland,Swazi
+U0001F1F8 U0001F1EA,SE,SWE,Sweden,Swedish
+U0001F1E8 U0001F1ED,CH,CHE,Switzerland,Swiss
+U0001F1F8 U0001F1FE,SY,SYR,Syrian Arab Republic,Syrian
+U0001F1F9 U0001F1FC,TW,TWN,Taiwan,Taiwanese
+U0001F1F9 U0001F1EF,TJ,TJK,Tajikistan,Tajikistani
+U0001F1F9 U0001F1FF,TZ,TZA,Tanzania,Tanzanian
+U0001F1F9 U0001F1ED,TH,THA,Thailand,Thai
+U0001F1F9 U0001F1F1,TL,TLS,Timor-Leste,Timorese
+U0001F1F9 U0001F1EC,TG,TGO,Togo,Togolese
+U0001F1F9 U0001F1F0,TK,TKL,Tokelau,Tokelauan
+U0001F1F9 U0001F1F4,TO,TON,Tonga,Tongan
+U0001F1F9 U0001F1F9,TT,TTO,Trinidad and Tobago,Trinidadian,Tobagonian
+U0001F1F9 U0001F1F3,TN,TUN,Tunisia,Tunisian
+U0001F1F9 U0001F1F7,TR,TUR,Turkey,Turkish
+U0001F1F9 U0001F1F2,TM,TKM,Turkmenistan,Turkmen
+U0001F1F9 U0001F1E8,TC,TCA,Turks and Caicos Islands,Turks and Caicos Island
+U0001F1F9 U0001F1FB,TV,TUV,Tuvalu,Tuvaluan
+U0001F1FA U0001F1EC,UG,UGA,Uganda,Ugandan
+U0001F1FA U0001F1E6,UA,UKR,Ukraine,Ukrainian
+U0001F1E6 U0001F1EA,AE,ARE,United Arab Emirates,Emirati, Emirian, Emiri
+U0001F1EC U0001F1E7,GB,GBR,United Kingdom,British, UK, Great Britain,England,Wales,British,Scottland
+U0001F1FA U0001F1F8,US,USA,United States of America,American
+U0001F1FA U0001F1FE,UY,URY,Uruguay,Uruguayan
+U0001F1FA U0001F1FF,UZ,UZB,Uzbekistan,Uzbekistani, Uzbek
+U0001F1FB U0001F1FA,VU,VUT,Vanuatu,Ni-Vanuatu, Vanuatuan
+U0001F1FB U0001F1EA,VE,VEN,Venezuela (Bolivarian Republic of),Venezuelan
+U0001F1FB U0001F1F3,VN,VNM,Vietnam,Vietnamese
+U0001F1FB U0001F1EC,Virgin Islands (British),British Virgin Island
+U0001F1FB U0001F1EE,VI,VIR,Virgin Islands (U.S.),U.S. Virgin Island
+U0001F1FC U0001F1EB,WF,WLF,Wallis and Futuna,Wallis, Wallisian,Futunan
+U0001F1EA U0001F1ED,EH,ESH,Western Sahara,Sahrawi, Sahrawian, Sahraouian
+U0001F1FE U0001F1EA,YE,YEM,Yemen,Yemeni
+U0001F1FF U0001F1F2,ZM,ZMB,Zambia,Zambian
+U0001F1FF U0001F1FC,ZW,ZWE,Zimbabwe,Zimbabwean
